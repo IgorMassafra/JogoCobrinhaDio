@@ -1,0 +1,16 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background:white;
+    background-image: url(imagem/cobra-floresta-antiga-selva-imagem-de-fundo.jpg);
+    color: rgb(52, 165, 52);
+}
+
+.title{
+    color: white;
+
+}
